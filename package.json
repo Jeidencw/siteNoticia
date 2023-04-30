@@ -1,0 +1,17 @@
+{
+  "name": "sitenoticia",
+  "version": "1.0.0",
+  "description": "site de noticia",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "Jeidencw",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
